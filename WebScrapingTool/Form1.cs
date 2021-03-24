@@ -1,4 +1,8 @@
-﻿using System;
+﻿//Published by Joshua Lopez
+//03-24-2021
+//For learning puposes ONLY!
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
